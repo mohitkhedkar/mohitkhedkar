@@ -16,8 +16,7 @@
  ----
 
 ### Competitive  Coding Profile
- # [![Hackerrank](https://img.shields.io/badge/-Hackerrank-00b300?style=flat&labelColor=00b300&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mohitkhedkar)  [![Codechef](https://img.shields.io/badge/-Codechef-5a331b?style=flat&labelColor=5a331b&logo=Codechef&logoColor=white)](https://www.codechef.com/users/mohitkhedkar)   [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-006600?style=flat&labelColor=#006600&logo=Geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mohitkhedkar/practice/)   [![Leetcode](https://img.shields.io/badge/-leetcode-f89f1b?style=flat&labelColor=f89f1b&logo=leetcode&logoColor=white)](https://leetcode.com/mohitkhedkar/)   [![Hackerearth](https://img.shields.io/badge/-hackerearth-323754?style=flat&labelColor=323754&logo=hackerearth&logoColor=d6d7dd)](https://www.hackerearth.com/@mohitkhedkar521) 
-  
+ # [![Hackerrank](https://img.shields.io/badge/-Hackerrank-00b300?style=flat&labelColor=00b300&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mohitkhedkar) <!-- [![Codechef](https://img.shields.io/badge/-Codechef-5a331b?style=flat&labelColor=5a331b&logo=Codechef&logoColor=white)](https://www.codechef.com/users/mohitkhedkar)   [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-006600?style=flat&labelColor=#006600&logo=Geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mohitkhedkar/practice/)   [![Leetcode](https://img.shields.io/badge/-leetcode-f89f1b?style=flat&labelColor=f89f1b&logo=leetcode&logoColor=white)](https://leetcode.com/mohitkhedkar/)   [![Hackerearth](https://img.shields.io/badge/-hackerearth-323754?style=flat&labelColor=323754&logo=hackerearth&logoColor=d6d7dd)](https://www.hackerearth.com/@mohitkhedkar521) -->
  
 <br />
 
@@ -29,7 +28,6 @@
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][mail]
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" />][twitter]
-
 
 <br />
  
