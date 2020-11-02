@@ -63,6 +63,7 @@
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][mail]
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" />][twitter]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg" />][instagram]
 <br />
  
@@ -73,6 +74,7 @@
 <!--[website]: https://mohitkhedkar.github.io/portfolio/ -->
 [linkedin]: https://www.linkedin.com/in/mohit-khedkar-63a6051a3/
 [github]: https://github.com/mohitkhedkar
+[stackoverflow]: https://stackoverflow.com/users/14565813/mohit-khedkar
 [twitter]: https://twitter.com/mohit_khedkar_
 [mail]: mailto:mohitkhedkar521@gmail.com
 [instagram]: https://instagram.com/
