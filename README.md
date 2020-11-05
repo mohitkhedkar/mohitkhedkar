@@ -60,8 +60,6 @@
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg" />][instagram]
 
- ----
- 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitkhedkar&label=Views&color=blue&style=plastic" alt="mohitkhedkar" /> </p> -->
 
 <!--[website]: https://mohitkhedkar.github.io/portfolio/ -->
