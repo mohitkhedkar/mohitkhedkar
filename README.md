@@ -66,6 +66,6 @@
 [linkedin]: https://www.linkedin.com/in/mohit-khedkar-63a6051a3/
 [github]: https://github.com/mohitkhedkar
 [stackoverflow]: https://stackoverflow.com/users/14565813/mohit-khedkar
-[twitter]: https://twitter.com/mohit_khedkar_
+[twitter]: https://twitter.com/mohitk0521
 [mail]: mailto:mohitkhedkar521@gmail.com
 [instagram]: https://instagram.com/
