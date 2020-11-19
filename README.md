@@ -7,8 +7,7 @@
  ----
 ## Github Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=mohitkhedkar&show_icons=true&theme=gruvbox)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkhedkar&layout=compact)-->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkhedkar&layout=compact&title_color=fff&text_color=ebebe0&bg_color=151515&langs_count=35&hide_border=false" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkhedkar&layout=compact&langs_count=35)
 
  ----
 ## Languages and Tools 
