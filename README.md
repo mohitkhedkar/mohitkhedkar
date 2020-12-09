@@ -6,7 +6,7 @@
 
  ----
 ## Github Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=mohitkhedkar&show_icons=true&theme=gruvbox)
+![github stats](https://github-readme-stats.vercel.app/api?username=mohitkhedkar&count_private=true&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkhedkar&layout=compact&langs_count=35)
 
  ----
