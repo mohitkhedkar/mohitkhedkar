@@ -7,9 +7,11 @@
  ----
 ## Github Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=mohitkhedkar&count_private=true&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitkhedkar&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkhedkar&layout=compact&langs_count=35)
 
- ----
+
+----
 ## Languages and Tools 
 
 <img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/c-programming.png"/>
