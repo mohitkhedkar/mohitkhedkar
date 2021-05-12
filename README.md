@@ -7,6 +7,8 @@
  ----
 ## Github Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=mohitkhedkar&count_private=true&show_icons=true&theme=gruvbox) <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitkhedkar&theme=highcontrast) --> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkhedkar&layout=compact&langs_count=8)
+<br><br>
+
 
 
 ----
@@ -38,10 +40,11 @@
   
 <img align="left" alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
    
-<img align="left" alt="Figma" width="27px" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png"/>
-  <br><br>
+<br><br>
 
----
+
+
+----
 ## Competitive  Coding Profile
  # [![Hackerrank](https://img.shields.io/badge/-Hackerrank-00b300?style=flat&labelColor=00b300&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mohitkhedkar)   [![Codechef](https://img.shields.io/badge/-Codechef-5a331b?style=flat&labelColor=5a331b&logo=Codechef&logoColor=white)](https://www.codechef.com/users/mohitkhedkar)   [![Leetcode](https://img.shields.io/badge/-leetcode-f89f1b?style=flat&labelColor=f89f1b&logo=leetcode&logoColor=white)](https://leetcode.com/mohitkhedkar/)   [![Hackerearth](https://img.shields.io/badge/-hackerearth-323754?style=flat&labelColor=323754&logo=hackerearth&logoColor=d6d7dd)](https://www.hackerearth.com/@mohitkhedkar)   [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-006600?style=flat&labelColor=#006600&logo=Geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mohitkhedkar/practice/)   [![Codeforces](https://img.shields.io/badge/-codeforces-d3e6e0?style=flat&labelColor=d3e6e0&logo=codeforces&logoColor=black)](https://codeforces.com/profile/mohitkhedkar)
 
