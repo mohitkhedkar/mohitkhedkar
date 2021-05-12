@@ -16,15 +16,9 @@
 
 <img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/c-plus-plus-logo.png"/>
  
-<img  align="left" width="45px" src="https://img.icons8.com/color/64/000000/java-coffee-cup-logo.png"/>
- 
 <img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/python.png"/>
 
 <img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/javascript.png"/>
-
-<img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/c-sharp-logo.png"/>
-
-<img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/dart.png"/>
 
 <img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/flutter.png"/>
 
@@ -43,11 +37,7 @@
 <img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   
 <img align="left" alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-   <br><br>
-
-<img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/atom-editor.png"/>
-
-
+   
 <img align="left" alt="Figma" width="27px" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png"/>
   <br><br>
 
