@@ -1,15 +1,14 @@
 ## Hi there, I'm Mohit Khedkar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
+<!--
 - 🌱 I’m currently learning Flutter
 - 👯 Open to collaborate 
 
  ----
+ -->
 ## Github Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=mohitkhedkar&count_private=true&show_icons=true&theme=gruvbox) <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitkhedkar&theme=highcontrast) --> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkhedkar&layout=compact&langs_count=8)
 <br><br>
-
-
 
 ----
 ## Languages and Tools 
