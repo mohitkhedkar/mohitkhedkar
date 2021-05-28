@@ -62,9 +62,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitkhedkar&label=Views&color=blue&style=plastic" alt="mohitkhedkar" /> </p> -->
 
 <!--[website]: https://mohitkhedkar.github.io/portfolio/ -->
-[linkedin]: https://www.linkedin.com/in/mohit-khedkar-63a6051a3/
-[github]: https://github.com/mohitkhedkar
+[linkedin]: 
 [stackoverflow]: https://stackoverflow.com/users/14565813/mohit-khedkar
 [twitter]: https://twitter.com/mohitk0521
 [mail]: mailto:mohitkhedkar521@gmail.com
-[instagram]: https://instagram.com/
+[instagram]: 
