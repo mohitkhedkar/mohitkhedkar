@@ -7,7 +7,7 @@
  ----
  -->
 ## Github Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=mohitkhedkar&count_private=true&show_icons=true&theme=gruvbox) <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitkhedkar&theme=highcontrast) --> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkhedkar&layout=compact&langs_count=8)
+![github stats](https://github-readme-stats.vercel.app/api?username=mohitkhedkar&count_private=true&show_icons=true&theme=gruvbox)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitkhedkar&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkhedkar&layout=compact&langs_count=8)
 <br><br>
 
 ----
@@ -49,9 +49,9 @@
 
 
 # [![Portfolio Website](https://img.shields.io/badge/Portfolio%20website-yellow)]()  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mohitkhedkar.visitor-badge)  <!-- ![GitHub stars](https://img.shields.io/github/stars/mohitkhedkar/mohitkhedkar?style=social)  -->
-
+<!--
 ## Connect with me
-<!--[<img align="left"  width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
+[<img align="left"  width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left"  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][mail]
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
@@ -59,10 +59,10 @@
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg" />][instagram]
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitkhedkar&label=Views&color=blue&style=plastic" alt="mohitkhedkar" /> </p> -->
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitkhedkar&label=Views&color=blue&style=plastic" alt="mohitkhedkar" /> </p> 
 
-<!--[website]: https://mohitkhedkar.github.io/portfolio/ --> 
-<!--
+[website]: https://mohitkhedkar.github.io/portfolio/  
+
 [linkedin]: 
 [stackoverflow]: https://stackoverflow.com/users/14565813/mohit-khedkar
 [twitter]: https://twitter.com/mohitk0521
