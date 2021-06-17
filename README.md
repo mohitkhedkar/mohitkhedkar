@@ -1,71 +1,69 @@
-## Hi there, I'm Mohit Khedkar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-- 🌱 I’m currently learning Flutter
-- 👯 Open to collaborate 
+👨‍🎓 I am Mohit Khedkar, currently embarking on my B.E. journey from **D.Y. Patil College Of Engineering, Akurdi, Pune.** <br/>
+🌱 I’m currently learning **Flutter App Development & Cyber Security**<br />
+⭐️ **3 star** coder at **Codechef**.  <br/>
+👯 Open to collaborate <br/> 
+📝 I write tech affiliated **articles** on <a href="https://auth.geeksforgeeks.org/user/mohitkhedkar/articles">GeeksForGeeks</a>
+<!-- 💻 I'm a **📱Android enthusiast.**<br/> -->
 
- ----
- -->
-## Github Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=mohitkhedkar&count_private=true&show_icons=true&theme=gruvbox)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitkhedkar&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkhedkar&layout=compact&langs_count=8)
-<br><br>
+---
 
-----
-## Languages and Tools 
+## 💻 Languages and Tools
 
-<img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/c-programming.png"/>
+<p align="center">
+   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=FFD43B">  
+  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  
+  <img src="https://img.shields.io/badge/flutter%20-%2300599C.svg?&style=for-the-badge&logo=flutter&logoColor=white">   
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   
+  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">   
+  <img src="https://img.shields.io/badge/mysql%20-%2300599C.svg?&style=for-the-badge&logo=mysql&logoColor=white">   
+  <img src="https://img.shields.io/badge/mongodb%20-%2320232a.svg?&style=for-the-badge&logo=mongodb&logoColor=3FA037">   
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>  
+ <img src="https://img.shields.io/badge/php%20-%23563D7C.svg?&style=for-the-badge&logo=php&logoColor=white"/>  
 
-<img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/c-plus-plus-logo.png"/>
- 
-<img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/python.png"/>
-
-<img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/javascript.png"/>
-
-<img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/flutter.png"/>
-
-<img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  
-<img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  
-<img align="left" alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  
-<img align="left" alt="MySQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="MongoDB" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img align="left" alt="PHP" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-  
-<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  
-<img align="left" alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+   
+</p>
    
 <br><br>
 
+----
+
+|![](https://github-readme-stats.vercel.app/api?username=mohitkhedkar&count_private=true&show_icons=true) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkhedkar"/>|
+|---|---|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkhedkar&layout=compact&langs_count=8)|
 
 
 ----
-## Competitive  Coding Profile
- # [![Hackerrank](https://img.shields.io/badge/-Hackerrank-00b300?style=flat&labelColor=00b300&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mohitkhedkar)   [![Codechef](https://img.shields.io/badge/-Codechef-5a331b?style=flat&labelColor=5a331b&logo=Codechef&logoColor=white)](https://www.codechef.com/users/mohitkhedkar)   [![Leetcode](https://img.shields.io/badge/-leetcode-f89f1b?style=flat&labelColor=f89f1b&logo=leetcode&logoColor=white)](https://leetcode.com/mohitkhedkar/)   [![Hackerearth](https://img.shields.io/badge/-hackerearth-323754?style=flat&labelColor=323754&logo=hackerearth&logoColor=d6d7dd)](https://www.hackerearth.com/@mohitkhedkar)   [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-006600?style=flat&labelColor=#006600&logo=Geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mohitkhedkar/practice/)   [![Codeforces](https://img.shields.io/badge/-codeforces-d3e6e0?style=flat&labelColor=d3e6e0&logo=codeforces&logoColor=black)](https://codeforces.com/profile/mohitkhedkar)
 
 
-# [![Portfolio Website](https://img.shields.io/badge/Portfolio%20website-yellow)]()  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mohitkhedkar.visitor-badge)  <!-- ![GitHub stars](https://img.shields.io/github/stars/mohitkhedkar/mohitkhedkar?style=social)  -->
-<!--
-## Connect with me
-[<img align="left"  width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left"  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][mail]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" />][twitter]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg" />][instagram]
+ <!--
+# [![Portfolio Website](https://img.shields.io/badge/Portfolio%20website-yellow)]()  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mohitkhedkar.visitor-badge)  ![GitHub stars](https://img.shields.io/github/stars/mohitkhedkar/mohitkhedkar?style=social)  -->
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitkhedkar&label=Views&color=blue&style=plastic" alt="mohitkhedkar" /> </p> 
+## Connect With me
+<div align="center">
+ <a href="" target="_blank">
+<img src=https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=globe&logoColor=white alt=Website style="margin-bottom: 5px;" />
+</a>
+ <a href="https://www.linkedin.com/in/mohitkhedkar/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+ <a href="https://stackoverflow.com/users/14565813/mohit-khedkar" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/mohitkhedkar" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/mohitk0521" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 
-[website]: https://mohitkhedkar.github.io/portfolio/  
+<a href="https://instagram.com/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23E34F26.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+ <a href="mailto:mohitkhedkar521@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+</div>
 
-[linkedin]: 
-[stackoverflow]: https://stackoverflow.com/users/14565813/mohit-khedkar
-[twitter]: https://twitter.com/mohitk0521
-[mail]: mailto:mohitkhedkar521@gmail.com
-[instagram]: 
--->
