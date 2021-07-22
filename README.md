@@ -59,9 +59,9 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://instagram.com/" target="_blank">
+<!-- <a href="https://instagram.com/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23E34F26.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+</a> -->
  <a href="mailto:mohitkhedkar521@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
