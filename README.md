@@ -1,6 +1,5 @@
 
-👨‍🎓 I am Mohit Khedkar, currently embarking on my B.E. journey from **D.Y. Patil College Of Engineering, Akurdi, Pune.** <br/>
-🌱 I’m currently learning **Flutter App Development & Cyber Security**<br />
+👨‍🎓 I am Mohit Khedkar, currently embarking on my B.E. journey from **D.Y. Patil College Of Engineering, Akurdi, Pune.** <br/> <!-- 🌱 I’m currently learning **Flutter App Development & Cyber Security**<br /> -->
 ⭐️ **3 star** coder at **Codechef**.  <br/>
 👯 Open to collaborate <br/> 
 📝 I write tech affiliated **articles** on <a href="https://auth.geeksforgeeks.org/user/mohitkhedkar/articles">GeeksForGeeks</a>
