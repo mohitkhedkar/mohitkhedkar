@@ -16,22 +16,22 @@
    
 <br>
 
-----
+---
 
-|![](https://github-readme-stats.vercel.app/api?username=mohitkhedkar&count_private=true&show_icons=true) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkhedkar"/>|
-|---|---|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkhedkar&layout=compact&langs_count=8)|
+| ![](https://github-readme-stats.vercel.app/api?username=mohitkhedkar&count_private=true&show_icons=true)               | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkhedkar"/> |
+| ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkhedkar&layout=compact&langs_count=8) |
 
-
-----
-
+---
 
  <!--
-# [![Portfolio Website](https://img.shields.io/badge/Portfolio%20website-yellow)]()  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mohitkhedkar.visitor-badge)  ![GitHub stars](https://img.shields.io/github/stars/mohitkhedkar/mohitkhedkar?style=social)  -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mohitkhedkar.visitor-badge)  ![GitHub stars](https://img.shields.io/github/stars/mohitkhedkar/mohitkhedkar?style=social)  
+-->
 
 ## Connect With me
+
 <div align="center">
- <a href="" target="_blank">
+ <a href="github.com/mohitkhedkar" target="_blank">
 <img src=https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=globe&logoColor=white alt=Website style="margin-bottom: 5px;" />
 </a>
  <a href="https://www.linkedin.com/in/mohitkhedkar/" target="_blank">
@@ -43,7 +43,7 @@
 <a href="https://github.com/mohitkhedkar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/mohitk_521" target="_blank">
+<a href="https://twitter.com/mohit_khedkar" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
@@ -54,4 +54,3 @@
 <img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 </div>
-
