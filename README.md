@@ -17,12 +17,15 @@
 </p>
 
 ---
-|<a href="http://www.github.com/mohitkhedkar"><img src="https://github-readme-stats.vercel.app/api?username=mohitkhedkar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mohitkhedkar's GitHub stats" /></a> | <a href="http://www.github.com/mohitkhedkar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkhedkar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+|<a href="http://www.github.com/mohitkhedkar"><img src="https://github-readme-stats.vercel.app/api?username=mohitkhedkar&show_icons=true&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=050F2C" alt="mohitkhedkar's GitHub stats" /></a> | <a href="http://www.github.com/mohitkhedkar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkhedkar&stroke=ffffff&background=050F2C&ring=00AEFF&fire=00AEFF&currStreakNum=2DDE98&currStreakLabel=2DDE98&sideNums=2DDE98&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkhedkar&style=for-the-badge&layout=compact&langs_count=10) | [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14565813)](https://stackoverflow.com/users/14565813/mohit-khedkar)|
-<!-- | ![](https://github-readme-stats.vercel.app/api?username=mohitkhedkar&count_private=true&show_icons=true)               | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkhedkar"/> | -->
-<!-- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -->
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkhedkar&style=for-the-badge&layout=compact&langs_count=10&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=050F2C) | [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14565813&fill=050F2C&textfill=ffffff&titlefill=00AEFF)](https://stackoverflow.com/users/14565813/mohit-khedkar)|
 
+
+
+<!-- | ![](https://github-readme-stats.vercel.app/api?username=mohitkhedkar&count_private=true&show_icons=true)               | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkhedkar"/> | 
+title_color: "00AEFF", icon_color: "2DDE98", text_color: "FFFFFF", bg_color: "050F2C",
+<!-- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -->
 
 ---
 
