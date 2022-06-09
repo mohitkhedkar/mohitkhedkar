@@ -2,31 +2,33 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
-   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=FFD43B">  
-   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  
+   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=FFD43B"> 
+   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/dart%20-%2300599C.svg?&style=for-the-badge&logo=dart&logoColor=white">
+   <img src="https://img.shields.io/badge/php%20-%23563D7C.svg?&style=for-the-badge&logo=php&logoColor=white"/>
    <img src="https://img.shields.io/badge/flutter%20-%2300599C.svg?&style=for-the-badge&logo=flutter&logoColor=white">   
    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   
-   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   
+   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">  
    <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">   
    <img src="https://img.shields.io/badge/mysql%20-%2300599C.svg?&style=for-the-badge&logo=mysql&logoColor=white">   
    <img src="https://img.shields.io/badge/mongodb%20-%2320232a.svg?&style=for-the-badge&logo=mongodb&logoColor=3FA037">   
    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>  
-   <img src="https://img.shields.io/badge/php%20-%23563D7C.svg?&style=for-the-badge&logo=php&logoColor=white"/>  
+     
 </p>
-   
-<br>
+
+---
+|<a href="http://www.github.com/mohitkhedkar"><img src="https://github-readme-stats.vercel.app/api?username=mohitkhedkar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mohitkhedkar's GitHub stats" /></a> | <a href="http://www.github.com/mohitkhedkar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkhedkar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+| ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkhedkar&style=for-the-badge&layout=compact&langs_count=10) | [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14565813)](https://stackoverflow.com/users/14565813/mohit-khedkar)|
+<!-- | ![](https://github-readme-stats.vercel.app/api?username=mohitkhedkar&count_private=true&show_icons=true)               | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkhedkar"/> | -->
+<!-- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -->
+
 
 ---
 
-| ![](https://github-readme-stats.vercel.app/api?username=mohitkhedkar&count_private=true&show_icons=true)               | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkhedkar"/> |
-| ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkhedkar&layout=compact&langs_count=8) | [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14565813)](https://stackoverflow.com/users/14565813/mohit-khedkar)|
+ 
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mohitkhedkar.visitor-badge)  ![GitHub stars](https://img.shields.io/github/stars/mohitkhedkar/mohitkhedkar?style=social)   -->
 
----
-
- <!--
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mohitkhedkar.visitor-badge)  ![GitHub stars](https://img.shields.io/github/stars/mohitkhedkar/mohitkhedkar?style=social)  
--->
 
 ## Connect With me
 
