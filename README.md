@@ -26,7 +26,7 @@ title_color: "00AEFF", icon_color: "2DDE98", text_color: "FFFFFF", bg_color: "05
 ## Connect With me
 
 <div align="center">
- <a href="github.com/mohitkhedkar" target="_blank">
+ <a href="mohitkhedkar.dev" target="_blank">
 <img src=https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=globe&logoColor=white alt=Website style="margin-bottom: 5px;" />
 </a>
  <a href="https://www.linkedin.com/in/mohitkhedkar/" target="_blank">
