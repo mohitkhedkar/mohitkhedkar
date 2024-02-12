@@ -31,6 +31,7 @@
 #### CSS Framework/Library/Pre-processors
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 #### Design/Visual Tools
 
