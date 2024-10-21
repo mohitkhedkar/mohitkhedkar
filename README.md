@@ -50,9 +50,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 ---
-
-| ![](https://raw.githubusercontent.com/mohitkhedkar/mohitkhedkar/main/generated/overview.svg#gh-dark-mode-only)  | <a href="http://www.github.com/mohitkhedkar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkhedkar&stroke=050F2C&background=050F2C&ring=00AEFF&fire=00AEFF&currStreakNum=2DDE98&currStreakLabel=2DDE98&sideNums=2DDE98&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> |
-| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![](https://raw.githubusercontent.com/mohitkhedkar/mohitkhedkar/main/generated/languages.svg#gh-dark-mode-only) | [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=23072783&fill=050F2C&textfill=ffffff&titlefill=00AEFF)](https://stackoverflow.com/users/23072783/mohit-khedkar)                                                                                |
-
+![](https://raw.githubusercontent.com/mohitkhedkar/mohitkhedkar/main/generated/overview.svg#gh-dark-mode-only)   ![](https://raw.githubusercontent.com/mohitkhedkar/mohitkhedkar/main/generated/languages.svg#gh-dark-mode-only)  
+---
 <!--   [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=23072783&fill=050F2C&textfill=ffffff&titlefill=00AEFF)](https://stackoverflow.com/users/23072783/mohit-khedkar)  -->
