@@ -5,7 +5,7 @@
 <p align="center"><b>Interested in web2 & web3 | Currently working on open source projects</b>
 </p>
 <p align="center">
- <a href="https://portfolio-mohitkhedkar.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+ <a href="https://mohitkhedkar.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
  <a href="https://drive.google.com/file/d/14gpJFmbBCprzflL2JqVeu0MXADNxQ9kM/view?usp=sharing" target="_blank"><img alt="" src="https://img.shields.io/badge/Resume-000?logo=vercel&logoColor=green&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/mohitkhedkar/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="mailto:mohitkhedkar521@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-000?logo=gmail&logoColor=&style=for-the-badge" style="vertical-align:center" /></a>
@@ -19,15 +19,16 @@
 <!--
 #### Languages -->
 
+![Typescript](https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=Typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![CPP](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=3670A0)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![Shadcn](https://img.shields.io/badge/shadcn-000?style=for-the-badge&logo=shacn&logoColor=38B2AC)
 ![Bootstrap](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
@@ -50,6 +51,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 ---
-![](https://raw.githubusercontent.com/mohitkhedkar/mohitkhedkar/main/generated/overview.svg#gh-dark-mode-only)   ![](https://raw.githubusercontent.com/mohitkhedkar/mohitkhedkar/main/generated/languages.svg#gh-dark-mode-only)  
----
+
+## ![](https://raw.githubusercontent.com/mohitkhedkar/mohitkhedkar/main/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/mohitkhedkar/mohitkhedkar/main/generated/languages.svg#gh-dark-mode-only)
+
 <!--   [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=23072783&fill=050F2C&textfill=ffffff&titlefill=00AEFF)](https://stackoverflow.com/users/23072783/mohit-khedkar)  -->
