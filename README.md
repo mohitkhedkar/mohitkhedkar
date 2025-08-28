@@ -5,13 +5,12 @@
 <p align="center"><b>Interested in web2 & web3 | Currently working on open source projects</b>
 </p>
 <p align="center">
- <a href="https://mohitkhedkar.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
- <a href="https://drive.google.com/file/d/14gpJFmbBCprzflL2JqVeu0MXADNxQ9kM/view?usp=sharing" target="_blank"><img alt="" src="https://img.shields.io/badge/Resume-000?logo=vercel&logoColor=green&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://mohitkhedkar.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://drive.google.com/file/d/14gpJFmbBCprzflL2JqVeu0MXADNxQ9kM/view?usp=sharing" target="_blank"><img alt="" src="https://img.shields.io/badge/Resume-000?logo=vercel&logoColor=green&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/mohitkhedkar/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="mailto:mohitkhedkar521@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-000?logo=gmail&logoColor=&style=for-the-badge" style="vertical-align:center" /></a>
-</br>
- <a href="https://twitter.com/mohitk_dev" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://www.instagram.com/mohitk_dev/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?logo=instagram&logoColor=&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://twitter.com/mohitk_dev" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<!-- <a href="https://www.instagram.com/mohitk_dev/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?logo=instagram&logoColor=&style=for-the-badge" style="vertical-align:center" /></a> -->
 </p>
 
 ## Tech Stack & Tools💻
