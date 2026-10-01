@@ -18,10 +18,17 @@
 <!--
 #### Languages -->
 
-![Typescript](https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=Typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![CPP](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=3670A0)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=PostgreSQL)
+![PostgreSQL](https://img.shields.io/badge/-Excel-000?style=for-the-badge&logo=Excel)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=Typescript)
+![CPP](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+<!--
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
@@ -33,7 +40,6 @@
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
@@ -45,9 +51,7 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
-![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn) -->
 
 ---
 
