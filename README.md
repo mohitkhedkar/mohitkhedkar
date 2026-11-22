@@ -27,6 +27,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=Typescript)
 ![CPP](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 
 <!--
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
